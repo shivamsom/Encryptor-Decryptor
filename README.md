@@ -2,6 +2,7 @@
 Used to encrpyt and decrypt text files
 
 `This program is based on Symmetric Key Encryption algorithm`
+### For Windows Only. Recommended Windows 7 or higher
 
 ## Steps to be followed:
 1. Open the application.
